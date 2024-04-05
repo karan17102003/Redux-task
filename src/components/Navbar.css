@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20PX 10%;
+    background-color: #03102292;
+}
+.nav-left{
+    align-items: center;
+    display: flex;
+}
+.nav-right{
+    display: flex;
+    gap: 1rem;
+    text-align: center;
+    color: white;
+    align-items: center;
+}
